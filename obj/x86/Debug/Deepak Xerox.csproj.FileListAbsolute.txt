@@ -1,0 +1,28 @@
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\bin\Debug\Deepak Xerox.exe.config
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\bin\Debug\Deepak Xerox.exe
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\bin\Debug\Deepak Xerox.pdb
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.AdvLabel.resources
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Form1.resources
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.frmReportViewer.resources
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Login.resources
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Personal_Details.resources
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Properties.Resources.resources
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.View_Billing.resources
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak Xerox.csproj.GenerateResource.Cache
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak Xerox.exe
+C:\Users\p\Documents\Visual Studio 2010\Projects\Deepak Xerox\Deepak Xerox\obj\x86\Debug\Deepak Xerox.pdb
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\bin\Debug\Deepak Xerox.exe.config
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak Xerox.exe
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak Xerox.pdb
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\bin\Debug\Deepak Xerox.exe
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\bin\Debug\Deepak Xerox.pdb
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.AdvLabel.resources
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Form1.resources
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.frmReportViewer.resources
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Login.resources
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Personal_Details.resources
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.Properties.Resources.resources
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak_Xerox.View_Billing.resources
+K:\PMK\PROJECT\XEROX_ERP\Deepak Xerox\obj\x86\Debug\Deepak Xerox.csproj.GenerateResource.Cache
