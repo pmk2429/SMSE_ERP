@@ -10,3 +10,6 @@ and inventory modules for micro small and medium enterprises such as copy center
 This module can be be extended to integrate other modules in it such as Accounting maintenance, sales module etc.
 
 The project is build in C#. 
+
+Classes defined
+========
